@@ -42,9 +42,10 @@
       })
       .then(function (html) {
         var documentFromPage = new DOMParser().parseFromString(html, "text/html");
-        return Array.prototype.slice.call(
-          documentFromPage.querySelectorAll("[data-publication-list] li")
-        );
+        var publicationList = documentFromPage.querySelector("[data-publication-list]");
+        if (!publicationList) throw new Error("Publication list not found at " + url);
+
+        return Array.prototype.slice.call(publicationList.querySelectorAll("li"));
       });
   }
 
@@ -62,12 +63,9 @@
     widget.classList.add("publication-stats--ready");
   }
 
-  Promise.all([
-    readPublicationPage(widget.dataset.journalsUrl),
-    readPublicationPage(widget.dataset.conferencesUrl)
-  ])
-    .then(function (groups) {
-      render(groups[0].concat(groups[1]));
+  readPublicationPage(widget.dataset.publicationsUrl)
+    .then(function (items) {
+      render(items);
     })
     .catch(function () {
       widget.classList.add("publication-stats--error");

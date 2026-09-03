@@ -22,7 +22,7 @@ redirect_from:
 <div style="margin-top:14px; color:#374151;">
 
 <p>
-Nan Li is a Lecturer at the School of Artificial Intelligence and the Institute of Big Data Science and Industry, Shanxi University. He was selected for the Doctoral Young Talent Support Program of the China Association for Science and Technology (CAST). His research interests mainly include Automated Machine Learning, Neural Architecture Search, and Performance Predictors. He has published over 30 papers in leading journals and conferences, including ACM CSUR, IEEE TEVC, IEEE TFS, IEEE TCYB, IEEE TNNLS, NeurIPS, ICML, and IJCAI. His publications include 5 ESI Highly Cited Papers, 1 ESI Hot Paper, and 3 Research Frontier Papers. He is also the first author of the Springer monograph <em>Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications</em>, the first academic book dedicated to performance predictors in evolutionary neural architecture search.
+Nan Li is with the School of Artificial Intelligence and the Institute of Big Data Science and Industry, Shanxi University. He was selected for the Doctoral Young Talent Support Program of the China Association for Science and Technology (CAST). His research interests mainly include Automated Machine Learning, Neural Architecture Search, and Performance Predictors. He has published over 30 papers in leading journals and conferences, including ACM CSUR, IEEE TEVC, IEEE TFS, IEEE TCYB, IEEE TNNLS, NeurIPS, ICML, and IJCAI. His publications include 5 ESI Highly Cited Papers, 1 ESI Hot Paper, and 3 Research Frontier Papers. He is also the first author of the Springer monograph <em>Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications</em>, the first academic book dedicated to performance predictors in evolutionary neural architecture search.
 </p>
 
 <p>
@@ -41,7 +41,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 <div style="margin-top:14px; color:#374151;">
 
 <p>
-李楠，山西大学人工智能学院、大数据科学与产业研究院讲师，入选中国科协青年人才托举工程博士生专项计划。主要从事自动机器学习、神经架构搜索、性能预测器等方面的研究工作。近年来在 ACM CSUR、IEEE TEVC、IEEE TFS、IEEE TCYB、IEEE TNNLS、NeurIPS、ICML、IJCAI 等国际权威期刊和会议发表论文 30 篇，其中包括 ESI 高被引论文 5 篇、ESI 热点论文 1 篇、Research Frontier Paper 3 篇；出版 Springer 学术专著《Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications》，该书为进化神经架构搜索性能预测器方向的首部学术专著。
+李楠，现就职于山西大学人工智能学院、大数据科学与产业研究院，入选中国科协青年人才托举工程博士生专项计划。主要从事自动机器学习、神经架构搜索、性能预测器等方面的研究工作。近年来在 ACM CSUR、IEEE TEVC、IEEE TFS、IEEE TCYB、IEEE TNNLS、NeurIPS、ICML、IJCAI 等国际权威期刊和会议发表论文 30 篇，其中包括 ESI 高被引论文 5 篇、ESI 热点论文 1 篇、Research Frontier Paper 3 篇；出版 Springer 学术专著《Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications》，该书为进化神经架构搜索性能预测器方向的首部学术专著。
 </p>
 
 <p>
@@ -53,7 +53,6 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 </div>
 
-- Lecturer
 - School of Computer and Information Technology, Institute of Big Data Science and Industry, Shanxi University, No.92, Wucheng Road, Taiyuan, Shanxi Province, China
 - 🤖 I am happy to mentor proactive and ambitious undergraduate students to publish **high-quality academic papers as first author**. 我非常乐意指导积极进取、主动投入的本科生以**第一作者身份发表高质量学术论文**。
 - ✨**Don’t be shy, have a try! Drop me an email and let’s make something exciting happen.** [lnnner[at]163.com or linan10[at]sxu.edu.cn]
@@ -62,17 +61,16 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 ## 📢 News
 
-<link rel="stylesheet" href="/linan.github.io/assets/css/publication-stats.css?v=20260718-6">
+<link rel="stylesheet" href="{{ '/assets/css/publication-stats.css?v=20260903-1' | relative_url }}">
 
 <div
   class="publication-stats"
   data-publication-stats
-  data-journals-url="/linan.github.io/publications/"
-  data-conferences-url="/linan.github.io/publications-c/"
+  data-publications-url="{{ '/publications/' | relative_url }}"
   aria-label="Publication statistics"
   aria-live="polite"
 >
-  <a class="publication-stat publication-stat--total" href="/linan.github.io/publications/" title="Total publications">
+  <a class="publication-stat publication-stat--total" href="{{ '/publications/' | relative_url }}" title="Total publications">
     <span class="publication-stat__icon" aria-hidden="true">∑</span>
     <span class="publication-stat__content">
       <span class="publication-stat__value" data-stat="total">–</span>
@@ -95,7 +93,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
   </span>
 </div>
 
-<script defer src="/linan.github.io/assets/js/publication-stats.js"></script>
+<script defer src="{{ '/assets/js/publication-stats.js?v=20260903-1' | relative_url }}"></script>
 
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
   <ul> 
