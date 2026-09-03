@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: Nan Li（李楠）
+title: Nan Li (李楠)
+hide_title: true
 author_profile: true
 redirect_from: 
   - /about/
