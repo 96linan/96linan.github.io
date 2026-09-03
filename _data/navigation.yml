@@ -11,11 +11,8 @@ main:
   - title: "Selected Publications"
     url: /s-publications/
     
-  - title: "Journal Publications"
-    url: /publications/
-
-  - title: "Conference Publications"
-    url: /publications-c/    
+  - title: "Publications"
+    url: /publications/  
 
   - title: "Supervision"
     url: /supervision/    
@@ -23,7 +20,7 @@ main:
   - title: "Services"
     url: /services/
         
-  - title: "Awards"
+  - title: "Funding/Awards"
     url: /awards/
     
     
