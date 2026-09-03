@@ -55,7 +55,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 </div>
 
 - School of Artificial Intelligence, Institute of Big Data Science and Industry, Shanxi University, No.92, Wucheng Road, Taiyuan, Shanxi Province, China
-- 🤖 I am happy to mentor proactive and ambitious undergraduate students to publish **high-quality academic papers as first author**. 我非常乐意指导积极进取、主动投入的本科生**发表高质量学术论文（例如，SCI Q1/CCF推荐论文）**。
+- 🤖 I am happy to mentor proactive and ambitious undergraduate students to publish **High-quality academic papers (e.g., SCI Q1/CCF-recommended papers)**. 我非常乐意指导积极进取、主动投入的本科生发表**高质量学术论文（例如，SCI Q1/CCF推荐论文）**。
 - ✨**Don’t be shy, have a try! Drop me an email and let’s make something exciting happen.** [lnnner[at]163.com or linan10[at]sxu.edu.cn]
 
 
