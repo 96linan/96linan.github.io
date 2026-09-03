@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Nan Li"
+title                    : "Nan Li（李楠）"
 title_separator          : "-"
 name                     : &name "Nan Li"
 description              : &description "Nan Li's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "96linan/linan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Nan Li"
+  name             : "Nan Li（李楠）"
   bio              : "Shanxi University"
   email            : "lnnner@163.com/linan10@sxu.edu.cn" 
   googlescholar    : "https://scholar.google.com/citations?user=SeO0JUwAAAAJ&hl=zh-CN"
