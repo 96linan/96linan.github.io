@@ -28,6 +28,4 @@ author_profile: true
 
 ### 智能科学导论（2026）
 
-山西大学 · 2026 年课程教学资料
-
-<a href="{{ '/files/teaching/2026-introduction-to-intelligent-science-ppt.zip' | relative_url }}" download="2026-智能科学导论-课程PPT.zip">下载课程 PPT（ZIP，37.5 MB）</a>
+山西大学 · 2026 年课程教学资料 · <a href="{{ '/files/teaching/2026-introduction-to-intelligent-science-ppt.zip' | relative_url }}" download="2026-智能科学导论-课程PPT.zip">下载课程 PPT（ZIP，37.5 MB）</a>
