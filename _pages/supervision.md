@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Supervision"
+title: "Supervision & Teaching"
 permalink: /supervision/
 author_profile: true
 ---
 
-### 仅统计以核心作者身份发表的论文
+## Supervision / 学生指导
+
+仅统计以核心作者身份发表的论文
 
 ### 博士研究生（联合指导）
 * 2025级, 梅傲寒 (东北大学, 导师：马连博教授), [TEVC+1, CEC+1]
@@ -21,3 +23,11 @@ author_profile: true
 * 2024级, 陈思思 (山西大学), [IJCNN+1][DOCS-2026参会]
 * 2024级, 胡博然 (山西大学), [IJCNN+1 (<span style="color:red">最佳学生论文提名)</span>][DOCS-2026参会]
 
+
+## Teaching / 课程教学
+
+### 智能科学导论（2026）
+
+山西大学 · 2026 年课程教学资料
+
+<a href="{{ '/files/teaching/2026-introduction-to-intelligent-science-ppt.zip' | relative_url }}" download="2026-智能科学导论-课程PPT.zip">下载课程 PPT（ZIP，37.5 MB）</a>
