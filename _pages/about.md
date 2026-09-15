@@ -57,74 +57,6 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 
 
-## 📢 News
-
-<link rel="stylesheet" href="{{ '/assets/css/publication-stats.css?v=20260903-1' | relative_url }}">
-
-<div
-  class="publication-stats"
-  data-publication-stats
-  data-publications-url="{{ '/publications/' | relative_url }}"
-  aria-label="Publication statistics"
-  aria-live="polite"
->
-  <a class="publication-stat publication-stat--total" href="{{ '/publications/' | relative_url }}" title="Total publications">
-    <span class="publication-stat__icon" aria-hidden="true">∑</span>
-    <span class="publication-stat__content">
-      <span class="publication-stat__value" data-stat="total">–</span>
-      <span class="publication-stat__label">Total</span>
-    </span>
-  </a>
-
-  <span class="publication-stat publication-stat--first" title="First-author publications">
-    <span class="publication-stat__icon" aria-hidden="true">1st</span>
-    <span class="publication-stat__content">
-      <span class="publication-stat__value" data-stat="first">–</span>
-      <span class="publication-stat__label">First-author</span>
-    </span>
-  </span>
-
-  <span class="publication-stat publication-stat--corresponding" title="Corresponding-author publications">
-    <span class="publication-stat__icon" aria-hidden="true">✉</span>
-    <span class="publication-stat__content">
-      <span class="publication-stat__value" data-stat="corresponding">–</span>
-      <span class="publication-stat__label">Corresponding</span>
-    </span>
-  </span>
-</div>
-
-<script defer src="{{ '/assets/js/publication-stats.js?v=20260903-1' | relative_url }}"></script>
-
-
-<div style="max-height:220px; overflow-y:auto; padding-right:8px;">
-  <ul>
-    <li>I am invited to be Organizing Committee of <span style="color:red">GPEML-2026</span>.</li>
-
-    <li>One paper about MTL is accepted by <span style="color:red">ACM MM-2026</span>. Congratulations to Yayu and Jinlong!</li>
-
-    <li>One paper about MPQ is accepted by <span style="color:red">ICML-2026</span>. Congratulations to Yonghui!</li>
-
-    <li>Nan Li is invited as <span style="color:red">AE of Complex & Intelligent Systems (SCI Q1)</span>.</li>
-
-    <li>Our work about Symbolic Regression for Predictor is accepted by <span style="color:red">TEVC</span>.</li>
-
-    <li>Four papers are accepted by <span style="color:red">IJCNN-2026</span>. Congratulations to the four outstanding undergraduates!</li>
-
-    <li>Our book about Performance Predictor in ENAS is published by <span style="color:red">Springer</span>. This is the first monograph on performance predictors in the ENAS field!</li>
-
-    <li>Our work about Performance Predictor for GFNAS is accepted by <span style="color:red">TEVC</span>. Congratulations to Aohan!</li>
-
-    <li>Our work about Generalizable MPQ is accepted by <span style="color:red">NeurIPS-2025</span>.</li>
-
-    <li>One work about Performance Predictor for ENAS becomes <span style="color:red">ESI Highly Cited Paper</span>.</li>
-
-    <li>Our work about Rank Performance Predictor for NAS is accepted by <span style="color:red">IJCAI-2025</span>.</li>
-
-    <li>Our work about Performance Predictor for ENAS is accepted by <span style="color:red">TEVC</span>.</li>
-
-    <li>Our work about Performance Predictor for ENAS is accepted by SWEVO.</li>
-  </ul>
-</div>
 
 
 
@@ -241,4 +173,74 @@ Institute of Big Data Science and Industry, Shanxi University, No. 92, Wucheng R
 
 </div>
 
+</div>
+
+
+## 📢 News
+
+<link rel="stylesheet" href="{{ '/assets/css/publication-stats.css?v=20260903-1' | relative_url }}">
+
+<div
+  class="publication-stats"
+  data-publication-stats
+  data-publications-url="{{ '/publications/' | relative_url }}"
+  aria-label="Publication statistics"
+  aria-live="polite"
+>
+  <a class="publication-stat publication-stat--total" href="{{ '/publications/' | relative_url }}" title="Total publications">
+    <span class="publication-stat__icon" aria-hidden="true">∑</span>
+    <span class="publication-stat__content">
+      <span class="publication-stat__value" data-stat="total">–</span>
+      <span class="publication-stat__label">Total</span>
+    </span>
+  </a>
+
+  <span class="publication-stat publication-stat--first" title="First-author publications">
+    <span class="publication-stat__icon" aria-hidden="true">1st</span>
+    <span class="publication-stat__content">
+      <span class="publication-stat__value" data-stat="first">–</span>
+      <span class="publication-stat__label">First-author</span>
+    </span>
+  </span>
+
+  <span class="publication-stat publication-stat--corresponding" title="Corresponding-author publications">
+    <span class="publication-stat__icon" aria-hidden="true">✉</span>
+    <span class="publication-stat__content">
+      <span class="publication-stat__value" data-stat="corresponding">–</span>
+      <span class="publication-stat__label">Corresponding</span>
+    </span>
+  </span>
+</div>
+
+<script defer src="{{ '/assets/js/publication-stats.js?v=20260903-1' | relative_url }}"></script>
+
+
+<div style="max-height:220px; overflow-y:auto; padding-right:8px;">
+  <ul>
+    <li>I am invited to be Organizing Committee of <span style="color:red">GPEML-2026</span>.</li>
+
+    <li>One paper about MTL is accepted by <span style="color:red">ACM MM-2026</span>. Congratulations to Yayu and Jinlong!</li>
+
+    <li>One paper about MPQ is accepted by <span style="color:red">ICML-2026</span>. Congratulations to Yonghui!</li>
+
+    <li>Nan Li is invited as <span style="color:red">AE of Complex & Intelligent Systems (SCI Q1)</span>.</li>
+
+    <li>Our work about Symbolic Regression for Predictor is accepted by <span style="color:red">TEVC</span>.</li>
+
+    <li>Four papers are accepted by <span style="color:red">IJCNN-2026</span>. Congratulations to the four outstanding undergraduates!</li>
+
+    <li>Our book about Performance Predictor in ENAS is published by <span style="color:red">Springer</span>. This is the first monograph on performance predictors in the ENAS field!</li>
+
+    <li>Our work about Performance Predictor for GFNAS is accepted by <span style="color:red">TEVC</span>. Congratulations to Aohan!</li>
+
+    <li>Our work about Generalizable MPQ is accepted by <span style="color:red">NeurIPS-2025</span>.</li>
+
+    <li>One work about Performance Predictor for ENAS becomes <span style="color:red">ESI Highly Cited Paper</span>.</li>
+
+    <li>Our work about Rank Performance Predictor for NAS is accepted by <span style="color:red">IJCAI-2025</span>.</li>
+
+    <li>Our work about Performance Predictor for ENAS is accepted by <span style="color:red">TEVC</span>.</li>
+
+    <li>Our work about Performance Predictor for ENAS is accepted by SWEVO.</li>
+  </ul>
 </div>
