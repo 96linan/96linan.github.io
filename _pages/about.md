@@ -23,7 +23,7 @@ redirect_from:
 <div style="margin-top:14px; color:#374151;">
 
 <p>
-Nan Li is with the School of Artificial Intelligence and the Institute of Big Data Science and Industry, Shanxi University. He was selected for the Doctoral Young Talent Support Program of the China Association for Science and Technology (CAST). His research interests mainly include Automated Machine Learning, Neural Architecture Search, and Performance Predictors. He has published over 30 papers in leading journals and conferences, including ACM CSUR, IEEE TEVC, IEEE TFS, IEEE TCYB, IEEE TNNLS, NeurIPS, ICML, and IJCAI. His publications include 5 ESI Highly Cited Papers, 1 ESI Hot Paper, and 3 Research Frontier Papers. He is also the first author of the Springer monograph <em>Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications</em>, the first academic book dedicated to performance predictors in evolutionary neural architecture search.
+Nan Li (Master's Supervisor) is with the School of Artificial Intelligence and the Institute of Big Data Science and Industry, Shanxi University. He was selected for the Doctoral Young Talent Support Program of the China Association for Science and Technology (CAST). His research interests mainly include Automated Machine Learning, Neural Architecture Search, and Performance Predictors. He has published over 30 papers in leading journals and conferences, including ACM CSUR, IEEE TEVC, IEEE TFS, IEEE TCYB, IEEE TNNLS, NeurIPS, ICML, and IJCAI. His publications include 5 ESI Highly Cited Papers, 1 ESI Hot Paper, and 3 Research Frontier Papers. He is also the first author of the Springer monograph <em>Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications</em>, the first academic book dedicated to performance predictors in evolutionary neural architecture search.
 </p>
 
 <p>
@@ -42,7 +42,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 <div style="margin-top:14px; color:#374151;">
 
 <p>
-李楠，现就职于山西大学人工智能学院、大数据科学与产业研究院，入选中国科协青年人才托举工程博士生专项计划。主要从事自动机器学习、神经架构搜索、性能预测器等方面的研究工作。近年来在 ACM CSUR、IEEE TEVC、IEEE TFS、IEEE TCYB、IEEE TNNLS、NeurIPS、ICML、IJCAI 等国际权威期刊和会议发表论文 30 篇，其中包括 ESI 高被引论文 5 篇、ESI 热点论文 1 篇、Research Frontier Paper 3 篇；出版 Springer 学术专著《Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications》，该书为进化神经架构搜索性能预测器方向的首部学术专著。
+李楠（硕导），现就职于山西大学人工智能学院、大数据科学与产业研究院，入选中国科协青年人才托举工程博士生专项计划。主要从事自动机器学习、神经架构搜索、性能预测器等方面的研究工作。近年来在 ACM CSUR、IEEE TEVC、IEEE TFS、IEEE TCYB、IEEE TNNLS、NeurIPS、ICML、IJCAI 等国际权威期刊和会议发表论文 30 篇，其中包括 ESI 高被引论文 5 篇、ESI 热点论文 1 篇、Research Frontier Paper 3 篇；出版 Springer 学术专著《Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications》，该书为进化神经架构搜索性能预测器方向的首部学术专著。
 </p>
 
 <p>
@@ -54,9 +54,6 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 </div>
 
-- School of Artificial Intelligence, Institute of Big Data Science and Industry, Shanxi University, No.92, Wucheng Road, Taiyuan, Shanxi Province, China
-- 🤖 I am happy to mentor proactive and ambitious undergraduate students to publish **High-quality academic papers (e.g., SCI Q1/CCF-recommended papers)**. 我非常乐意指导积极进取、主动投入的本科生发表**高质量学术论文（例如，SCI Q1/CCF推荐论文）**。
-- ✨**Don’t be shy, have a try! Drop me an email and let’s make something exciting happen.** [lnnner[at]163.com or linan10[at]sxu.edu.cn]
 
 
 
@@ -115,7 +112,26 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 </div>
 
 
-## ⭐ Research Interest
+#### 🎓 For Undergraduate Students | 本科生科研指导
+
+- I am happy to mentor **proactive, ambitious, and research-driven undergraduate students** who are interested in conducting high-quality research and publishing **high-quality academic papers**, such as **SCI Q1 / CCF-recommended papers**. 我非常乐意指导**积极进取、主动投入、对科研有热情的本科生**开展高质量科研工作，并以发表高水平学术论文（如 SCI Q1 / CCF 推荐论文）为目标。
+
+
+#### 🚀 For Graduate Students | 研究生科研指导
+
+- I work hard, move fast, and set high standards for research, and I expect the same level of **commitment, initiative, and ambition** from my graduate students. I do **not place much weight on your undergraduate institution or academic pedigree**. What matters more is whether you can demonstrate that you are **capable, self-motivated, resilient, and willing to put in the work**. You do not need a perfect background — you just need to prove that **you can do it**.  我本人对科研投入度较高、节奏较快，也希望我的研究生具备同样的**投入度、主动性和进取心**。我**并不十分看重你的本科院校或第一学历背景**，相比这些，我更在意你是否能够证明自己具备**能力、自驱力、韧性，以及持续投入科研的意愿**。你不需要拥有一个“完美”的履历，只需要向我证明：**你可以做到。**
+
+#### 📍 Location | 地址
+
+- 🌐 School of Artificial Intelligence, Institute of Big Data Science and Industry, Shanxi University  
+  No. 92, Wucheng Road, Taiyuan, Shanxi Province, China
+
+#### ✨ Interested in Joining? | 欢迎联系
+
+- **Don’t be shy, have a try! Drop me an email and let’s make something exciting happen.** 📧 **Email:** `lnnner[at]163.com` / `linan10[at]sxu.edu.cn`
+
+
+#### ⭐ Research Interest | 研究主题
 
 My research interest focus on theory and applications of Automated Machine Learning (AutoML), including:
 - Neural Architecture Search
