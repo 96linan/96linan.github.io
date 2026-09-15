@@ -175,12 +175,9 @@ My research interests focus on the theory and applications of <strong>Automated 
 <div style="margin-top:14px; color:#374151;">
 
 <p>
-I am happy to mentor <strong>proactive, ambitious, and research-driven undergraduate students</strong> who are interested in conducting high-quality research and publishing <strong>high-quality academic papers</strong>, such as <strong>SCI Q1 / CCF-recommended papers</strong>.
+I am happy to mentor <strong>proactive, ambitious, and research-driven undergraduate students</strong> who are interested in conducting high-quality research and publishing <strong>high-quality academic papers</strong>, such as <strong>SCI Q1 / CCF-recommended papers</strong>. 我非常乐意指导<strong>积极进取、主动投入、对科研有热情的本科生</strong>开展高质量科研工作，并以发表<strong>高水平学术论文（如 SCI Q1 / CCF 推荐论文）</strong>为目标。
 </p>
 
-<p>
-我非常乐意指导<strong>积极进取、主动投入、对科研有热情的本科生</strong>开展高质量科研工作，并以发表<strong>高水平学术论文（如 SCI Q1 / CCF 推荐论文）</strong>为目标。
-</p>
 
 </div>
 </details>
@@ -195,12 +192,9 @@ I am happy to mentor <strong>proactive, ambitious, and research-driven undergrad
 <div style="margin-top:14px; color:#374151;">
 
 <p>
-I work hard, move fast, and set high standards for research, and I expect the same level of <strong>commitment, initiative, and ambition</strong> from my graduate students. I do <strong>not place much weight on your undergraduate institution or academic pedigree</strong>. What matters more is whether you can demonstrate that you are <strong>capable, self-motivated, resilient, and willing to put in the work</strong>. You do not need a perfect background — you just need to prove that <strong>you can do it</strong>.
+I work hard, move fast, and set high standards for research, and I expect the same level of <strong>commitment, initiative, and ambition</strong> from my graduate students. I do <strong>not place much weight on your undergraduate institution or academic pedigree</strong>. What matters more is whether you can demonstrate that you are <strong>capable, self-motivated, resilient, and willing to put in the work</strong>. You do not need a perfect background — you just need to prove that <strong>you can do it</strong>. 我本人对科研投入度较高、节奏较快，也希望我的研究生具备同样的<strong>投入度、主动性和进取心</strong>。我<strong>并不十分看重你的本科院校或第一学历背景</strong>，相比这些，我更在意你是否能够证明自己具备<strong>能力、自驱力、韧性，以及持续投入科研的意愿</strong>。你不需要拥有一个“完美”的履历，只需要向我证明：<strong>你可以做到。</strong>
 </p>
 
-<p>
-我本人对科研投入度较高、节奏较快，也希望我的研究生具备同样的<strong>投入度、主动性和进取心</strong>。我<strong>并不十分看重你的本科院校或第一学历背景</strong>，相比这些，我更在意你是否能够证明自己具备<strong>能力、自驱力、韧性，以及持续投入科研的意愿</strong>。你不需要拥有一个“完美”的履历，只需要向我证明：<strong>你可以做到。</strong>
-</p>
 
 </div>
 </details>
@@ -216,9 +210,7 @@ I work hard, move fast, and set high standards for research, and I expect the sa
 
 <p>
 🌐 <strong>School of Artificial Intelligence</strong><br>
-Institute of Big Data Science and Industry<br>
-Shanxi University<br>
-No. 92, Wucheng Road, Taiyuan, Shanxi Province, China
+Institute of Big Data Science and Industry, Shanxi University, No. 92, Wucheng Road, Taiyuan, Shanxi Province, China
 </p>
 
 </div>
