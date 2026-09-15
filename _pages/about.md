@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 <div markdown="1" style="text-align: justify;">
-  
-## 📌About Me
 
+
+## 📌 About Me
 
 
 <div style="line-height:1.75; font-size:16px; text-align:justify;">
+
 <details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
 <summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
 🪄 英文简介 / English Version
@@ -56,7 +57,6 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 
 
-
 ## 📢 News
 
 <link rel="stylesheet" href="{{ '/assets/css/publication-stats.css?v=20260903-1' | relative_url }}">
@@ -75,6 +75,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
       <span class="publication-stat__label">Total</span>
     </span>
   </a>
+
   <span class="publication-stat publication-stat--first" title="First-author publications">
     <span class="publication-stat__icon" aria-hidden="true">1st</span>
     <span class="publication-stat__content">
@@ -82,6 +83,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
       <span class="publication-stat__label">First-author</span>
     </span>
   </span>
+
   <span class="publication-stat publication-stat--corresponding" title="Corresponding-author publications">
     <span class="publication-stat__icon" aria-hidden="true">✉</span>
     <span class="publication-stat__content">
@@ -93,51 +95,158 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 <script defer src="{{ '/assets/js/publication-stats.js?v=20260903-1' | relative_url }}"></script>
 
-<div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
-  <ul> 
-    <li>I am invited to be Organizing Committee of <span style="color:red">GPEML-2026</span>.</li> 
-    <li>One paper about MTL is accepted by <span style="color:red">ACM MM-2026</span>. Congratulations to Yayu and Jinlong!</li> 
-    <li>One paper about MPQ is accepted by <span style="color:red">ICML-2026</span>. Congratulations to Yonghui!</li> 
-    <li>Nan Li is invited as <span style="color:red"> AE of Complex & Intelligent Systems (SCI Q1)</span>.</li>
-    <li>Our work about Symbolic Regression for Predictor is accepted by <span style="color:red">TEVC</span>. </li> 
-    <li>Four papers are accepted by <span style="color:red">IJCNN-2026</span>. Congratulations to the four outstanding undergraduates!</li> 
-    <li>Our book about Performance Predictor in ENAS is published by <span style="color:red">Springer</span>. This is the first monograph on performance predictors in the ENAS field!</li> 
-    <li>Our work about Performance Predictor for GFNAS is accepted by <span style="color:red">TEVC</span>. Congratulations to Aohan!</li> 
-    <li>Our work about Generalizable MPQ is accepted by <span style="color:red">NeurIPS-2025</span>.</li> 
-    <li>One work about Performance Predictor for ENAS becomes <span style="color:red">ESI Highly Cited Paper</span>.</li> 
-    <li>Our work about Rank Performance Predictor for NAS is accepted by <span style="color:red">IJCAI-2025</span>.</li> 
-    <li>Our work about Performance Predictor for ENAS is accepted by <span style="color:red">TEVC</span>.</li> 
-    <li>Our work about Performance Predictor for ENAS is accepted by SWEVO.</li> 
-  </ul> 
+
+<div style="max-height:220px; overflow-y:auto; padding-right:8px;">
+  <ul>
+    <li>I am invited to be Organizing Committee of <span style="color:red">GPEML-2026</span>.</li>
+
+    <li>One paper about MTL is accepted by <span style="color:red">ACM MM-2026</span>. Congratulations to Yayu and Jinlong!</li>
+
+    <li>One paper about MPQ is accepted by <span style="color:red">ICML-2026</span>. Congratulations to Yonghui!</li>
+
+    <li>Nan Li is invited as <span style="color:red">AE of Complex & Intelligent Systems (SCI Q1)</span>.</li>
+
+    <li>Our work about Symbolic Regression for Predictor is accepted by <span style="color:red">TEVC</span>.</li>
+
+    <li>Four papers are accepted by <span style="color:red">IJCNN-2026</span>. Congratulations to the four outstanding undergraduates!</li>
+
+    <li>Our book about Performance Predictor in ENAS is published by <span style="color:red">Springer</span>. This is the first monograph on performance predictors in the ENAS field!</li>
+
+    <li>Our work about Performance Predictor for GFNAS is accepted by <span style="color:red">TEVC</span>. Congratulations to Aohan!</li>
+
+    <li>Our work about Generalizable MPQ is accepted by <span style="color:red">NeurIPS-2025</span>.</li>
+
+    <li>One work about Performance Predictor for ENAS becomes <span style="color:red">ESI Highly Cited Paper</span>.</li>
+
+    <li>Our work about Rank Performance Predictor for NAS is accepted by <span style="color:red">IJCAI-2025</span>.</li>
+
+    <li>Our work about Performance Predictor for ENAS is accepted by <span style="color:red">TEVC</span>.</li>
+
+    <li>Our work about Performance Predictor for ENAS is accepted by SWEVO.</li>
+  </ul>
 </div>
 
 
-## 🎓 For Undergraduate Students | 本科生科研指导
 
-- I am happy to mentor **proactive, ambitious, and research-driven undergraduate students** who are interested in conducting high-quality research and publishing **high-quality academic papers**, such as **SCI Q1 / CCF-recommended papers**. 我非常乐意指导**积极进取、主动投入、对科研有热情的本科生**开展高质量科研工作，并以发表高水平学术论文（如 SCI Q1 / CCF 推荐论文）为目标。
-
-
-## 🚀 For Graduate Students | 研究生科研指导
-
-- I work hard, move fast, and set high standards for research, and I expect the same level of **commitment, initiative, and ambition** from my graduate students. I do **not place much weight on your undergraduate institution or academic pedigree**. What matters more is whether you can demonstrate that you are **capable, self-motivated, resilient, and willing to put in the work**. You do not need a perfect background — you just need to prove that **you can do it**.  我本人对科研投入度较高、节奏较快，也希望我的研究生具备同样的**投入度、主动性和进取心**。我**并不十分看重你的本科院校或第一学历背景**，相比这些，我更在意你是否能够证明自己具备**能力、自驱力、韧性，以及持续投入科研的意愿**。你不需要拥有一个“完美”的履历，只需要向我证明：**你可以做到。**
-
-## 📍 Location | 地址
-
-- 🌐 School of Artificial Intelligence, Institute of Big Data Science and Industry, Shanxi University  
-  No. 92, Wucheng Road, Taiyuan, Shanxi Province, China
-
-## ✨ Interested in Joining? | 欢迎联系
-
-- **Don’t be shy, have a try! Drop me an email and let’s make something exciting happen.** 📧 **Email:** `lnnner[at]163.com` / `linan10[at]sxu.edu.cn`
+<div style="line-height:1.75; font-size:16px; text-align:justify;">
 
 
-## ⭐ Research Interest | 研究主题
+<details style="margin-top:22px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+<summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
+⭐ Research Interests | 研究主题
+</summary>
 
-My research interest focus on theory and applications of Automated Machine Learning (AutoML), including:
-- Neural Architecture Search
-- Performance Predictor
-- Feature Selection
-- Ordinal Learning
-- Evolutionary Computation
+<div style="margin-top:14px; color:#374151;">
+
+<p>
+My research interests focus on the theory and applications of <strong>Automated Machine Learning (AutoML)</strong>, including:
+</p>
+
+<ul>
+  <li>Neural Architecture Search</li>
+  <li>Performance Predictor</li>
+  <li>Feature Selection</li>
+  <li>Ordinal Learning</li>
+  <li>Evolutionary Computation</li>
+</ul>
+
+<p>
+我的研究主要围绕<strong>自动机器学习（Automated Machine Learning, AutoML）</strong>的理论与应用展开，主要包括：
+</p>
+
+<ul>
+  <li>神经架构搜索（Neural Architecture Search）</li>
+  <li>性能预测器（Performance Predictor）</li>
+  <li>特征选择（Feature Selection）</li>
+  <li>序数学习（Ordinal Learning）</li>
+  <li>进化计算（Evolutionary Computation）</li>
+</ul>
+
+</div>
+</details>
+
+
+
+<details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+<summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
+🎓 For Undergraduate Students | 本科生科研指导
+</summary>
+
+<div style="margin-top:14px; color:#374151;">
+
+<p>
+I am happy to mentor <strong>proactive, ambitious, and research-driven undergraduate students</strong> who are interested in conducting high-quality research and publishing <strong>high-quality academic papers</strong>, such as <strong>SCI Q1 / CCF-recommended papers</strong>.
+</p>
+
+<p>
+我非常乐意指导<strong>积极进取、主动投入、对科研有热情的本科生</strong>开展高质量科研工作，并以发表<strong>高水平学术论文（如 SCI Q1 / CCF 推荐论文）</strong>为目标。
+</p>
+
+</div>
+</details>
+
+
+
+<details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+<summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
+🚀 For Graduate Students | 研究生科研指导
+</summary>
+
+<div style="margin-top:14px; color:#374151;">
+
+<p>
+I work hard, move fast, and set high standards for research, and I expect the same level of <strong>commitment, initiative, and ambition</strong> from my graduate students. I do <strong>not place much weight on your undergraduate institution or academic pedigree</strong>. What matters more is whether you can demonstrate that you are <strong>capable, self-motivated, resilient, and willing to put in the work</strong>. You do not need a perfect background — you just need to prove that <strong>you can do it</strong>.
+</p>
+
+<p>
+我本人对科研投入度较高、节奏较快，也希望我的研究生具备同样的<strong>投入度、主动性和进取心</strong>。我<strong>并不十分看重你的本科院校或第一学历背景</strong>，相比这些，我更在意你是否能够证明自己具备<strong>能力、自驱力、韧性，以及持续投入科研的意愿</strong>。你不需要拥有一个“完美”的履历，只需要向我证明：<strong>你可以做到。</strong>
+</p>
+
+</div>
+</details>
+
+
+
+<details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+<summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
+📍 Location | 地址
+</summary>
+
+<div style="margin-top:14px; color:#374151;">
+
+<p>
+🌐 <strong>School of Artificial Intelligence</strong><br>
+Institute of Big Data Science and Industry<br>
+Shanxi University<br>
+No. 92, Wucheng Road, Taiyuan, Shanxi Province, China
+</p>
+
+</div>
+</details>
+
+
+
+<details style="margin-top:18px; margin-bottom:20px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+<summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
+✨ Interested in Joining? | 欢迎联系
+</summary>
+
+<div style="margin-top:14px; color:#374151;">
+
+<p>
+<strong>Don’t be shy, have a try! Drop me an email and let’s make something exciting happen.</strong>
+</p>
+
+<p>
+📧 <strong>Email:</strong>
+<code>lnnner[at]163.com</code> /
+<code>linan10[at]sxu.edu.cn</code>
+</p>
+
+</div>
+</details>
+
+
+</div>
 
 </div>
