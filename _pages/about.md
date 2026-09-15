@@ -112,26 +112,26 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 </div>
 
 
-#### 🎓 For Undergraduate Students | 本科生科研指导
+## 🎓 For Undergraduate Students | 本科生科研指导
 
 - I am happy to mentor **proactive, ambitious, and research-driven undergraduate students** who are interested in conducting high-quality research and publishing **high-quality academic papers**, such as **SCI Q1 / CCF-recommended papers**. 我非常乐意指导**积极进取、主动投入、对科研有热情的本科生**开展高质量科研工作，并以发表高水平学术论文（如 SCI Q1 / CCF 推荐论文）为目标。
 
 
-#### 🚀 For Graduate Students | 研究生科研指导
+## 🚀 For Graduate Students | 研究生科研指导
 
 - I work hard, move fast, and set high standards for research, and I expect the same level of **commitment, initiative, and ambition** from my graduate students. I do **not place much weight on your undergraduate institution or academic pedigree**. What matters more is whether you can demonstrate that you are **capable, self-motivated, resilient, and willing to put in the work**. You do not need a perfect background — you just need to prove that **you can do it**.  我本人对科研投入度较高、节奏较快，也希望我的研究生具备同样的**投入度、主动性和进取心**。我**并不十分看重你的本科院校或第一学历背景**，相比这些，我更在意你是否能够证明自己具备**能力、自驱力、韧性，以及持续投入科研的意愿**。你不需要拥有一个“完美”的履历，只需要向我证明：**你可以做到。**
 
-#### 📍 Location | 地址
+## 📍 Location | 地址
 
 - 🌐 School of Artificial Intelligence, Institute of Big Data Science and Industry, Shanxi University  
   No. 92, Wucheng Road, Taiyuan, Shanxi Province, China
 
-#### ✨ Interested in Joining? | 欢迎联系
+## ✨ Interested in Joining? | 欢迎联系
 
 - **Don’t be shy, have a try! Drop me an email and let’s make something exciting happen.** 📧 **Email:** `lnnner[at]163.com` / `linan10[at]sxu.edu.cn`
 
 
-#### ⭐ Research Interest | 研究主题
+## ⭐ Research Interest | 研究主题
 
 My research interest focus on theory and applications of Automated Machine Learning (AutoML), including:
 - Neural Architecture Search
