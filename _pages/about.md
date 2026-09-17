@@ -18,7 +18,7 @@ redirect_from:
 
 <details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
 <summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
-🪄 英文简介 / English Version
+🪄 Personal Profile / 个人简介
 </summary>
 
 <div style="margin-top:14px; color:#374151;">
@@ -30,17 +30,6 @@ Nan Li (Master's Supervisor) is with the School of Artificial Intelligence and t
 <p>
 He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em> and Editorial Board Member of <em>Mathematics and Computer Science</em>. He has also served as Guest Editor for <em>Automated Software Engineering</em> and <em>CMC–Computers, Materials & Continua</em>, and as Special Issue Associate Editor for the <em>Journal of Xi’an University of Posts and Telecommunications</em>. He has organized special sessions and workshops for BIBM 2026, ICME 2026, IJCNN 2026, IJCNN 2025, CEC 2025, DOCS 2025, and ICCVIT 2025, and serves as a Program Committee member for IJCNN, CEC, ICDM, ICML, and IJCAI. He has served as a reviewer for more than ten IEEE Transactions journals and for top-tier conferences including ICML, CVPR, ICLR, NeurIPS, AAAI, and ECCV. He is a Committee Member of the Technical Committee on Computational Intelligence and Applications of CAA, and a member of CAA and CCF. His research achievements have been recognized by the Bilingual Communication Project for Scientific Journals, and the Outstanding Paper Award of the <em>Journal of Shaanxi Normal University (Natural Science Edition)</em>.
 </p>
-
-</div>
-</details>
-
-
-<details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
-<summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
-🌸 中文简介 / Chinese Version
-</summary>
-
-<div style="margin-top:14px; color:#374151;">
 
 <p>
 李楠（硕导），现就职于山西大学人工智能学院、大数据科学与产业研究院，入选中国科协青年人才托举工程博士生专项计划。主要从事自动机器学习、神经架构搜索、性能预测器等方面的研究工作。近年来在 ACM CSUR、IEEE TEVC、IEEE TFS、IEEE TCYB、IEEE TNNLS、NeurIPS、ICML、IJCAI 等国际权威期刊和会议发表论文 30 篇，其中包括 ESI 高被引论文 5 篇、ESI 热点论文 1 篇、Research Frontier Paper 3 篇；出版 Springer 学术专著《Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications》，该书为进化神经架构搜索性能预测器方向的首部学术专著。
@@ -101,7 +90,7 @@ My research interests focus on the theory and applications of <strong>Automated 
 
 <details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
 <summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
-🎓 For Undergraduate Students | 本科生科研指导
+🎓 For Future Students | 致未来的学生
 </summary>
 
 <div style="margin-top:14px; color:#374151;">
@@ -110,66 +99,35 @@ My research interests focus on the theory and applications of <strong>Automated 
 I am happy to mentor <strong>proactive, ambitious, and research-driven undergraduate students</strong> who are interested in conducting high-quality research and publishing <strong>high-quality academic papers</strong>, such as <strong>SCI Q1 / CCF-recommended papers</strong>. 我非常乐意指导<strong>积极进取、主动投入、对科研有热情的本科生</strong>开展高质量科研工作，并以发表<strong>高水平学术论文（如 SCI Q1 / CCF 推荐论文）</strong>为目标。
 </p>
 
-
-</div>
-</details>
-
-
-
-<details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
-<summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
-🚀 For Graduate Students | 研究生科研指导
-</summary>
-
-<div style="margin-top:14px; color:#374151;">
-
 <p>
 I work hard, move fast, and set high standards for research, and I expect the same level of <strong>commitment, initiative, and ambition</strong> from my graduate students. I do <strong>not place much weight on your undergraduate institution or academic pedigree</strong>. What matters more is whether you can demonstrate that you are <strong>capable, self-motivated, resilient, and willing to put in the work</strong>. You do not need a perfect background — you just need to prove that <strong>you can do it</strong>. 我本人对科研投入度较高、节奏较快，也希望我的研究生具备同样的<strong>投入度、主动性和进取心</strong>。我<strong>并不十分看重你的本科院校或第一学历背景</strong>，相比这些，我更在意你是否能够证明自己具备<strong>能力、自驱力、韧性，以及持续投入科研的意愿</strong>。你不需要拥有一个“完美”的履历，只需要向我证明：<strong>你可以做到。</strong>
 </p>
 
-
 </div>
 </details>
+
 
 
 
 <details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
 <summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
-📍 Location | 地址
+📍 Location / Interested in Joining? | 地址 / 欢迎联系
 </summary>
 
 <div style="margin-top:14px; color:#374151;">
 
 <p>
-🌐 <strong>School of Artificial Intelligence</strong><br>
-Institute of Big Data Science and Industry, Shanxi University, No. 92, Wucheng Road, Taiyuan, Shanxi Province, China
-</p>
-
-</div>
-</details>
-
-
-
-<details style="margin-top:18px; margin-bottom:20px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
-<summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
-✨ Interested in Joining? | 欢迎联系
-</summary>
-
-<div style="margin-top:14px; color:#374151;">
-
-<p>
-<strong>Don’t be shy, have a try! Drop me an email and let’s make something exciting happen.</strong>
+🌐 School of Artificial Intelligence, Institute of Big Data Science and Industry, Shanxi University, No. 92, Wucheng Road, Taiyuan, Shanxi Province, China
 </p>
 
 <p>
-📧 <strong>Email:</strong>
-<code>lnnner[at]163.com</code> /
+<strong>Don’t be shy, have a try! Drop me an email and let’s make something exciting happen.</strong> <code>lnnner[at]163.com</code> /
 <code>linan10[at]sxu.edu.cn</code>
 </p>
 
+
 </div>
 </details>
-
 
 </div>
 
