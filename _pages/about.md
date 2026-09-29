@@ -90,7 +90,7 @@ My research interests focus on the theory and applications of <strong>Automated 
 
 <details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
 <summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
-🎓 For Future Students | 致未来的学生
+🎓 For Future Students | 致未来的学生 | 
 </summary>
 
 <div style="margin-top:14px; color:#374151;">
@@ -100,7 +100,7 @@ I am happy to mentor <strong>proactive, ambitious, and research-driven undergrad
 </p>
 
 <p>
-I work hard, move fast, and set high standards for research, and I expect the same level of <strong>commitment, initiative, and ambition</strong> from my graduate students. I do <strong>not place much weight on your undergraduate institution or academic pedigree</strong>. What matters more is whether you can demonstrate that you are <strong>capable, self-motivated, resilient, and willing to put in the work</strong>. You do not need a perfect background — you just need to prove that <strong>you can do it</strong>. 我本人对科研投入度较高、节奏较快，也希望我的研究生具备同样的<strong>投入度、主动性和进取心</strong>。我<strong>并不十分看重你的本科院校或第一学历背景</strong>，相比这些，我更在意你是否能够证明自己具备<strong>能力、自驱力、韧性，以及持续投入科研的意愿</strong>。你不需要拥有一个“完美”的履历，只需要向我证明：<strong>你可以做到。</strong>
+I expect the level of <strong>commitment, initiative, and ambition</strong> from my graduate students. I do <strong>not place much weight on your undergraduate institution or academic pedigree</strong>. What matters more is whether you can demonstrate that you are <strong>capable, self-motivated, resilient, and willing to put in the work</strong>. You do not need a perfect background — you just need to prove that <strong>you can do it</strong>. 我希望我的研究生具备同样的<strong>投入度、主动性和进取心</strong>。我<strong>并不十分看重你的本科院校或第一学历背景</strong>，相比这些，我更在意你是否能够证明自己具备<strong>能力、自驱力、韧性，以及持续投入科研的意愿</strong>。你不需要拥有一个“完美”的履历，只需要向我证明：<strong>你可以做到。</strong>
 </p>
 
 </div>
