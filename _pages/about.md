@@ -178,7 +178,7 @@ I expect the level of <strong>commitment, initiative, and ambition</strong> from
     
     <li>One work about ENAS for FNN becomes <span style="color:red">ESI Highly Cited Paper</span>.</li>
 
-    <li>Our three works on generative pansharpening, LLM-enhanced architecture design, and automated architecture search have been accepted by IEEE JSTARS.</li>
+    <li>Our three works on generative pansharpening, LLM-enhanced architecture design, and automated architecture search have been accepted by <span style="color:red">IEEE JSTARS</span>.</li>
     <li>I am invited to be Organizing Committee of <span style="color:red">GPEML-2026</span>.</li>
     
     <li>One paper about MPQ is accepted by <span style="color:red">ICML-2026</span>. Congratulations to Yonghui!</li>
