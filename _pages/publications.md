@@ -18,7 +18,7 @@ author_profile: true
 
 ## English Journal Papers
 
-1. Xingsi Xue, Fenghua Huang, Jianfeng Wang, Aohan Mei, **Nan Li**+, “Physics-Guided Generative Pansharpening for Remote Sensing Images Under Unknown Sensor Degradation,” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: 10.1109/JSTARS.2026.xxxxxx.
+1. Xingsi Xue, Fenghua Huang, Jianfeng Wang, Aohan Mei, **Nan Li**+, “Physics-Guided Generative Pansharpening for Remote Sensing Images Under Unknown Sensor Degradation,” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: 10.1109/JSTARS.2026.3739763.
 2. Tian Zhang, Jianlun Ma, Aohan Mei, **Nan Li**, Dong Ge, Huiyan Jiang, Dong Li, Jianhui Lv, “R-PADE: Ranking-Aware Predictor-Assisted Differential Evolution for Efficient NAS in Medical Image Segmentation,” *AI Medicine*, 2026.
 3. Xingsi Xue, Shuwen Lin, 	Jinhao Liang, Saru Kumari, Maazen Alsabaan, and **Nan Li**+, “LLM-Enhanced Architecture Design for Lightweight Small-Object Detection in Low-Altitude Remote Sensing,” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: 10.1109/JSTARS.2026.3719281.
 4. Qiuhao Wang, Yuexiao Wang, Aohan Mei, Tian Zhang, **Nan Li**+, “Hierarchical Enzyme Function Prediction Based on Structural Confidence and Active-Site-Aware Attention,” *AI Medicine*, 2026.
