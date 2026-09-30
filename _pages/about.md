@@ -175,10 +175,9 @@ I expect the level of <strong>commitment, initiative, and ambition</strong> from
 
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;">
   <ul>
+    <li>Our three works on generative pansharpening, LLM-enhanced architecture design, and automated architecture search have been accepted by IEEE JSTARS.</li>
     <li>I am invited to be Organizing Committee of <span style="color:red">GPEML-2026</span>.</li>
-
-    <li>One paper about MTL is accepted by <span style="color:red">ACM MM-2026</span>. Congratulations to Yayu and Jinlong!</li>
-
+    
     <li>One paper about MPQ is accepted by <span style="color:red">ICML-2026</span>. Congratulations to Yonghui!</li>
 
     <li>Nan Li is invited as <span style="color:red">AE of Complex & Intelligent Systems (SCI Q1)</span>.</li>
