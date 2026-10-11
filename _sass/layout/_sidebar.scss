@@ -262,12 +262,9 @@
   display: block;
   width: 180px;
   margin-top: 14px;
-  color: inherit;
-  text-align: center;
-  text-decoration: none;
+  min-height: 180px;
 
-  object,
-  img {
+  .author__visitors-fallback {
     display: block;
     width: 100%;
     aspect-ratio: 16 / 9;
@@ -276,9 +273,9 @@
     border-radius: $border-radius;
   }
 
-  span {
-    display: block;
-    margin-top: 4px;
-    font-size: $type-size-7;
+  &:has(.mmvst_outer) {
+    .author__visitors-fallback {
+      display: none;
+    }
   }
 }

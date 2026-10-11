@@ -171,15 +171,14 @@
       {% endif %}      
     </ul>
 
-    <a class="author__visitors" href="https://clustrmaps.com/site/1c88t" title="Visitor Map">
-      <object
-        data="https://www.clustrmaps.com/map_v2.png?d=92TplFJOmquLc-neEfKI-4geykXnxITjBm3JCfe2ORQ&amp;cl=ffffff"
-        type="image/png"
-        aria-label="Visitor Map">
-        <img src="{{ '/images/visitor-map-fallback.png' | relative_url }}" alt="Visitor Map" />
-      </object>
-      <span>Visitor Map</span>
-    </a>
+    <div class="author__visitors" aria-label="Visitor Map">
+      <img class="author__visitors-fallback" src="{{ '/images/visitor-map-fallback.png' | relative_url }}" alt="Visitor Map" />
+      <script
+        type="text/javascript"
+        id="mmvst_globe"
+        src="https://mapmyvisitors.com/globe.js?d=eRF93xALS_vxLyzBYuBy3Top0kuBbcB_fQTrwRfWl6c">
+      </script>
+    </div>
     
   </div>
 </div>
