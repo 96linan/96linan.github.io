@@ -47,6 +47,13 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
+      {% if author.github %}
+        {% if author.github contains "://" %}
+          <li><a href="{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
+        {% else %}
+          <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
+        {% endif %}
+      {% endif %}
       {% if author.semantic %}
         <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>
       {% endif %}
@@ -79,13 +86,6 @@
       {% if author.dribbble %}
         <li><a href="https://dribbble.com/{{ author.dribbble }}"><i class="fab fa-fw fa-dribbble icon-pad-right" aria-hidden="true"></i>Dribbble</a></li>
       {% endif %}      
-      {% if author.github %}
-        {% if author.github contains "://" %}
-          <li><a href="{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
-        {% else %}
-          <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
-        {% endif %}
-      {% endif %}
       {% if author.kaggle %}
         <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle icon-pad-right" aria-hidden="true"></i>Kaggle</a></li>
       {% endif %}      
@@ -171,14 +171,15 @@
       {% endif %}      
     </ul>
 
-    <div class="author__visitors" style="margin-top: 14px; width: 180px; min-height: 120px;">
-  <script
-    type="text/javascript"
-    id="clustrmaps"
-    src="https://cdn.clustrmaps.com/map_v2.js?d=92TplFJOmquLc-neEfKI-4geykXnxITjBm3JCfe2ORQ&cl=ffffff&w=a">
-  </script>
-  <noscript><a href="https://clustrmaps.com/site/1c88t">Visitor Map</a></noscript>
-</div>
+    <a class="author__visitors" href="https://clustrmaps.com/site/1c88t" title="Visitor Map">
+      <object
+        data="https://www.clustrmaps.com/map_v2.png?d=92TplFJOmquLc-neEfKI-4geykXnxITjBm3JCfe2ORQ&amp;cl=ffffff"
+        type="image/png"
+        aria-label="Visitor Map">
+        <img src="{{ '/images/visitor-map-fallback.png' | relative_url }}" alt="Visitor Map" />
+      </object>
+      <span>Visitor Map</span>
+    </a>
     
   </div>
 </div>
