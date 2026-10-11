@@ -175,8 +175,17 @@
       <img class="author__visitors-fallback" src="{{ '/images/visitor-map-fallback.png' | relative_url }}" alt="Visitor Map" />
       <script
         type="text/javascript"
-        id="mmvst_globe"
-        src="https://mapmyvisitors.com/globe.js?d=eRF93xALS_vxLyzBYuBy3Top0kuBbcB_fQTrwRfWl6c">
+        id="mapmyvisitors"
+        src="https://mapmyvisitors.com/map.js?d=eRF93xALS_vxLyzBYuBy3Top0kuBbcB_fQTrwRfWl6c&amp;w=150&amp;t=n">
+      </script>
+      <script>
+        window.addEventListener("load", function () {
+          var visitorMap = document.getElementById("mapmyvisitors-widget");
+          if (visitorMap) {
+            visitorMap.removeAttribute("href");
+            visitorMap.removeAttribute("target");
+          }
+        });
       </script>
     </div>
     

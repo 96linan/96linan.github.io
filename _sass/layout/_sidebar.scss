@@ -260,9 +260,9 @@
 
 .author__visitors {
   display: block;
-  width: 180px;
+  width: 150px;
   margin-top: 14px;
-  min-height: 180px;
+  min-height: 74px;
 
   .author__visitors-fallback {
     display: block;
@@ -273,9 +273,19 @@
     border-radius: $border-radius;
   }
 
-  &:has(.mmvst_outer) {
+  &:has(#mapmyvisitors-widget) {
     .author__visitors-fallback {
       display: none;
     }
+  }
+
+  #mapmyvisitors-widget {
+    min-height: 74px !important;
+    cursor: default;
+  }
+
+  .mapmyvisitors-bottom-text,
+  .mapmyvisitors-cursor-click {
+    display: none !important;
   }
 }
