@@ -175,7 +175,8 @@ I expect the level of <strong>commitment, initiative, and ambition</strong> from
 
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;">
   <ul>
-    
+      <li>Our work about ENAS for  Neural Combinatorial Optimization is accepted by <span style="color:red">TEVC</span>.</li>
+
     <li>One work about ENAS for FNN becomes <span style="color:red">ESI Highly Cited Paper</span>.</li>
 
     <li>Our three works on generative pansharpening, LLM-enhanced architecture design, and automated architecture search have been accepted by <span style="color:red">IEEE JSTARS</span>.</li>
