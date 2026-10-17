@@ -175,6 +175,8 @@ I expect the level of <strong>commitment, initiative, and ambition</strong> from
 
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;">
   <ul>
+
+     <li>Our work about Causal Learning for Out-of-Distribution Node Classification is accepted by <span style="color:red"> IEEE IoTJ</span>.</li>
       <li>Our work about ENAS for  Neural Combinatorial Optimization is accepted by <span style="color:red">TEVC</span>.</li>
 
     <li>One work about ENAS for FNN becomes <span style="color:red">ESI Highly Cited Paper</span>.</li>
