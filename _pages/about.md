@@ -32,7 +32,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 </p>
 
 <p>
-李楠（硕导），现就职于山西大学人工智能学院、大数据科学与产业研究院，入选中国科协青年人才托举工程博士生专项计划。主要从事自动机器学习、神经架构搜索、性能预测器等方面的研究工作。近年来在 ACM CSUR、IEEE TEVC、IEEE TFS、IEEE TCYB、IEEE TNNLS、NeurIPS、ICML、IJCAI 等国际权威期刊和会议发表论文 30 篇，其中包括 ESI 高被引论文 5 篇、ESI 热点论文 1 篇、Research Frontier Paper 3 篇；出版 Springer 学术专著《Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications》，该书为进化神经架构搜索性能预测器方向的首部学术专著。
+李楠（硕导），现就职于山西大学人工智能学院、大数据科学与产业研究院，入选中国科协青年人才托举工程博士生专项计划。主要从事自动机器学习、神经架构搜索、性能预测器等方面的研究工作。近年来在 ACM CSUR、IEEE TEVC、IEEE TFS、IEEE TCYB、IEEE TNNLS、NeurIPS、ICML、IJCAI 等国际权威期刊和会议发表论文 40 篇，其中包括 ESI 高被引论文 5 篇、ESI 热点论文 1 篇、Research Frontier Paper 3 篇；出版 Springer 学术专著《Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications》，该书为进化神经架构搜索性能预测器方向的首部学术专著。
 </p>
 
 <p>
@@ -100,7 +100,7 @@ I am happy to mentor <strong>proactive, ambitious, and research-driven undergrad
 </p>
 
 <p>
-I expect the level of <strong>commitment, initiative, and ambition</strong> from my graduate students. I do <strong>not place much weight on your undergraduate institution or academic pedigree</strong>. What matters more is whether you can demonstrate that you are <strong>capable, self-motivated, resilient, and willing to put in the work</strong>. You do not need a perfect background — you just need to prove that <strong>you can do it</strong>. 我希望我的研究生具备同样的<strong>投入度、主动性和进取心</strong>。我<strong>并不十分看重你的本科院校或第一学历背景</strong>，相比这些，我更在意你是否能够证明自己具备<strong>能力、自驱力、韧性，以及持续投入科研的意愿</strong>。你不需要拥有一个“完美”的履历，只需要向我证明：<strong>你可以做到。</strong>
+I expect the level of <strong>commitment, initiative, and ambition</strong> from my graduate students. What matters more is whether you can demonstrate that you are <strong>capable, self-motivated, resilient, and willing to put in the work</strong>. You do not need a perfect background — you just need to prove that <strong>you can do it</strong>. 我希望我的研究生具备同样的<strong>投入度、主动性和进取心</strong>。我更在意你是否能够证明自己具备<strong>能力、自驱力、韧性，以及持续投入科研的意愿</strong>。你不需要拥有一个完美的履历，只需要向我证明：<strong>你可以做到。</strong>
 </p>
 
 </div>
