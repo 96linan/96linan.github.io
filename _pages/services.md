@@ -8,6 +8,7 @@ author_profile: true
 ## 其它学术兼职
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
   <ul> 
+<li>‌锦州医科大学附属第一医院技术管理委员会成员（2026）</li>
 <li>IEEE CIS Task Force on AI Agent-Driven Optimization, under the Evolutionary Computation Technical Committee (ECTC), Member (2026)</li> 
 <li>山西云时代技术有限公司（山西太行实验室有限公司）柔性引进人才（2026-2027）</li> 
 <li>Organizing Committee of GPEML-2026</li> 
