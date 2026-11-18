@@ -18,8 +18,8 @@ author_profile: true
 
 ## English Journal Papers
 
-1. Xingsi Xue, Shuwen Lin, Wenxi Liu, Saru Kumari, Kadambri Agarwal, **Nan Li**+, “MedSPA: Medical Structure Proxy Alignment for Personalized Federated EHR Graph Learning,” *IEEE Journal of Biomedical and Health Informatics*, 2026, doi: 10.1109/JBHI.2026.3456213.
-2. Xingsi Xue, Shuwen Lin, Manel Ayadi, Nidhi Bhatia, Saru Kumari, **Nan Li**+, “Multi-Agent Deep Reinforcement Learning for Multimodal Remote Sensing Feature Learning,” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: 10.1109/JSTARS.2026.2343253.
+1. Xingsi Xue, Shuwen Lin, Wenxi Liu, Saru Kumari, Kadambri Agarwal, **Nan Li**+, “MedSPA: Medical Structure Proxy Alignment for Personalized Federated EHR Graph Learning,” *IEEE Journal of Biomedical and Health Informatics*, 2026, doi: 10.1109/JBHI.2026.3756022.
+2. Xingsi Xue, Shuwen Lin, Manel Ayadi, Nidhi Bhatia, Saru Kumari, **Nan Li**+, “Multi-Agent Deep Reinforcement Learning for Multimodal Remote Sensing Feature Learning,” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: 10.1109/JSTARS.2026.3756029.
 3. Xingsi Xue, Shuwen Lin, Wenxi Liu, **Nan Li**+, “Risk-Guided Counterfactual Causal Learning for Out-of-Distribution Node Classification in IoT,” *IEEE Internet of Things Journal*, 2026, doi: 10.1109/JIOT.2026.3744399.
 4. **Nan Li**, Aohan Mei, Tian Zhang, Ruwang Jiao, Cuie Yang, Lianbo Ma, Yuhua Qian, and Yuhui Shi, “Evolutionary Graph Neural Architecture Search for Heterogeneous Graph-Based Combinatorial Optimization,” *IEEE Transactions on Evolutionary Computation*, early access, 2026, doi: 10.1109/TEVC.2026.3745054.
 5. Xingsi Xue, Fenghua Huang, Jianfeng Wang, Aohan Mei, **Nan Li**+, “Physics-Guided Generative Pansharpening for Remote Sensing Images Under Unknown Sensor Degradation,” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: 10.1109/JSTARS.2026.3739763.
