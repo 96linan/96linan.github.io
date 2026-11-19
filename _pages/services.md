@@ -36,22 +36,19 @@ author_profile: true
   </ul> 
 </div>
 
-## 部分期刊/会议审稿人
-### 期刊
+## 特邀报道
+
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
   <ul> 
-    <li>IEEE Transactions on Evolutionary Computation</li>
-    <li>IEEE Transactions on Fuzzy Systems</li>
-    <li>IEEE Transactions on Neural Networks and Learning Systems</li>
-    <li>IEEE Transactions on Cybernetics</li>
-    <li>IEEE Transactions on Artificial Intelligence</li>
-    <li>IEEE Transactions on Intelligent Transportation Systems</li>
-    <li>IEEE Transactions on Consumer Electronics</li>
-    <li>IEEE Computational Intelligence Magazine</li>
+    <li>IEEE International Conference on Data Mining (2026, CCF-B): Report Topic：Performance Predictor in Evolutionary Deep Learning: Methods and Applications </li>
+    <li>第二届中国计算机学会演化计算学术会议 (2026), 报道主题：自动模型压缩方法与理论</li>
+    <li>演化计算及其前沿应用青年学者论坛 (2026), 报道主题：可演化的性能预测器</li>
   </ul> 
 </div>
 
-### 会议
-ICML, CVPR, ICLR, NeurIPS, AAAI, ECCV, etc.
+## 审稿期刊
+
+TEVC, TFS, TNNLS, TCYB, TAI, TETCI, TCE, CIM, ICML, CVPR, ICLR, NeurIPS, AAAI, ECCV, etc.
+
 
 
